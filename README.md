@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="Edward Spotify Playing" width="350" />](https://open.spotify.com/user/1p8pv48ai4oj7d5vq456zbv1l)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1p8pv48ai4oj7d5vq456zbv1l&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1p8pv48ai4oj7d5vq456zbv1l&redirect=true)
 
 ### Connect with me:
 
@@ -41,14 +41,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
