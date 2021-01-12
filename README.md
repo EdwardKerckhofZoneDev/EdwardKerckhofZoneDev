@@ -4,10 +4,6 @@
 
 ## I'm a computer science student and have a great passion for development!
 
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1p8pv48ai4oj7d5vq456zbv1l&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1p8pv48ai4oj7d5vq456zbv1l&redirect=true)
-
 ### Connect with me:
 
 [<img align="left" alt="zonedev.be" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -39,6 +35,10 @@
 
 <br />
 <br />
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1p8pv48ai4oj7d5vq456zbv1l&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1p8pv48ai4oj7d5vq456zbv1l&redirect=true)
 
 ---
 
