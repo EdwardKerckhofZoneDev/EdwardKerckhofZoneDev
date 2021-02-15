@@ -1,6 +1,6 @@
 ### Hi there, I'm Edward 👋
 
-[![Website](https://img.shields.io/website?label=zonedev.be&style=for-the-badge&url=https%3A%2F%2Fnew.zonedev.be)](https://new.zonedev.be)
+[![Website](https://img.shields.io/website?label=zonedev.be&style=for-the-badge&url=https%3A%2F%zonedev.be)](https://zonedev.be)
 
 ## I'm a computer science student and have a great passion for development!
 
